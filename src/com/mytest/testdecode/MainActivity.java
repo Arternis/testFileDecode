@@ -1,4 +1,4 @@
-package com.htc.testdecode;
+package com.mytest.testdecode;
 
 import android.app.Activity;
 import android.content.Context;
