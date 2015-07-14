@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/help1"
+        android:title="@string/help"/>
+    <item
+        android:id="@+id/help2"
+        android:title="@string/help"/>
+    <item
+        android:id="@+id/help3"
+        android:title="@string/help"/>
+    <item
+        android:id="@+id/help4"
+        android:title="@string/help"/>
+    <item
+        android:id="@+id/help5"
+        android:title="@string/help"/>
+    <item
+        android:id="@+id/help6"
+        android:title="@string/help"/>
+    <item
+        android:id="@+id/help7"
+        android:title="@string/help"/>
+    <item
+        android:id="@+id/help8"
+        android:title="@string/help"/>
+
+</menu>
